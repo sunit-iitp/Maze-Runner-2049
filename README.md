@@ -26,4 +26,4 @@ The project was an exploration into game logic and state management. It features
 ## 🎮 How to Run
 1. Download and install [GameMaker](https://gamemaker.io/en/download).
 2. Open the `maze_Game.yyp` file.
-3. Press **F5** to run the game.
+3. And run the game .
