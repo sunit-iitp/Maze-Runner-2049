@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Sound_win",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.1159184,
+  "exportDir":"",
+  "name":"Sound_win",
+  "parent":{
+    "name":"maze_Game",
+    "path":"maze_Game.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sound_win.mp3",
+  "volume":1.0,
+}
